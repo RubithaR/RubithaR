@@ -124,12 +124,10 @@ AI/ML Engineer • Software Engineer • Full Stack Developer • Generative AI 
 
 ---
 
-# 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/RubithaR/RubithaR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/RubithaR/RubithaR/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
