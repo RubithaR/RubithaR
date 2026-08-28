@@ -7,7 +7,7 @@ AI/ML Engineer • Software Engineer • Full Stack Developer • AI Agents
 <p align="center">
   <img src="./Rubi.png"
        alt="AI ML and Full Stack Software Engineer"
-       width="650" />
+       width="450" />
 </p>
 
 <p align="center">
