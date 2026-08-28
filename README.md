@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rubitha Tharumarasa</h1>
+<h1 align="center">Hi, I'm Rubitha Tharumarasa</h1>
 
 <h3 align="center">
-AI/ML Engineer • Software Engineer • Full Stack Developer • Generative AI • AI Agents
+AI/ML Engineer • Software Engineer • Full Stack Developer • AI Agents
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=AI%2FML+%26+Software+Engineer;Building+AI+Agents+%26+RAG+Systems;Full+Stack+%26+Backend+Development;Generative+AI+%7C+Cloud+%7C+MLOps;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="./Rubi.png"
+       alt="AI ML and Full Stack Software Engineer"
+       width="650" />
 </p>
 
 <p align="center">
@@ -13,18 +15,7 @@ AI/ML Engineer • Software Engineer • Full Stack Developer • Generative AI 
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering graduate from the **University of Sri Jayewardenepura**
-- 🤖 Building **AI/ML, Generative AI, RAG, AI Agents and Voice AI** applications
-- 💻 Interested in **Software Engineering, Backend Engineering and Full Stack Development**
-- 🧠 Experienced with **Machine Learning, Deep Learning, Computer Vision and LLM systems**
-- ⚙️ Building scalable applications using **REST APIs, Microservices and modern web technologies**
-- ☁️ Exploring **AWS, MLOps, Cloud Infrastructure and AI Deployment**
-- 🔬 Interested in **Agentic AI, Distributed Systems, AI Infrastructure and scalable software systems**
-- 🌱 Always learning and building practical AI-powered software products
-
+Computer Engineering graduate passionate about AI/ML and Software Engineering. I enjoy building AI-powered applications, full-stack systems, APIs, and scalable backend solutions. Currently exploring Generative AI, AI Agents, AWS, MLOps, and cloud technologies.
 ---
 
 ## 🌐 Connect With Me
@@ -99,26 +90,6 @@ AI/ML Engineer • Software Engineer • Full Stack Developer • Generative AI 
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RubithaR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-[![Rubitha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RubithaR&theme=github-dark&hide_border=true)](https://github.com/RubithaR)
-
-</p>
-
----
-
-# 🏆 Top Contributed Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RubithaR&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </p>
 
